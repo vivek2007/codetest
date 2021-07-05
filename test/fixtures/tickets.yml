@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ticket_title: MyString
+  ticket_number: 
+  due_date: 2021-07-03
+  ticket_notes: 
+
+two:
+  ticket_title: MyString
+  ticket_number: 
+  due_date: 2021-07-03
+  ticket_notes: 
